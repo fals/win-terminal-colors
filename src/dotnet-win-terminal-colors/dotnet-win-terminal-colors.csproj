@@ -15,6 +15,8 @@
     <Product>Win Terminal Colors</Product>
     <Description>dotnet tool to convert color schemes to windows terminal format</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/fals/win-terminal-colors</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fals/win-terminal-colors</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

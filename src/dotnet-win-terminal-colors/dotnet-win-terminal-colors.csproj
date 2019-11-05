@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>dotnet_win_terminal_colors</RootNamespace>
+
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>wtc</ToolCommandName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
+    <Version>0.0.1</Version>
+    <PackageId>wtc</PackageId>
+    <Authors>Filipe Lima</Authors>
+    <Company>fals.io</Company>
+    <Product>Win Terminal Colors</Product>
+    <Description>dotnet tool to convert color schemes to windows terminal format</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

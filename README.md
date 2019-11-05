@@ -7,7 +7,7 @@ dotnet tool to convert color schemes for Windows Terminal format
 dotnet tool install --global wtc
 ```
 
-# Download Iterm Color Schemes
+# Download iTerm Color Schemes
 
 You can find a list of colors here: https://github.com/mbadolato/iTerm2-Color-Schemes. Just clone the repository.
 
